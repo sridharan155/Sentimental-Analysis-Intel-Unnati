@@ -17,7 +17,7 @@ In the digital world, customer reviews are abundant. Manually analyzing this dat
 
 🗃️ Dataset Used
 
-- **I5 & I12 Dataset**: Contains product-related user feedback/comments with sentiment labels.
+- **I3 & I5 Dataset**: Contains product-related user feedback/comments with sentiment labels.
 - Each entry includes:
   - User comment/review
   - Associated product or service (optional)
